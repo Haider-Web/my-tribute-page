@@ -1,0 +1,29 @@
+body{
+    background-image: linear-gradient(black, blue);
+    color: white;
+}
+#main {
+    text-align: center;
+    font-size: 25px;
+}
+
+#img {
+    margin-left: 23%;
+}
+
+#img-caption {
+    text-align: center;
+    font-size: 15px;
+}
+
+#tribute-info {
+    margin-left: 26%;
+    font-size: 20px;
+    line-height: 3;
+}
+#tribute-link{
+    text-align: center;
+    font-size: 24px;
+    margin-left: 35%;
+    color: white;
+}
